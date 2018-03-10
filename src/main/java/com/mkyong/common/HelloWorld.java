@@ -15,4 +15,8 @@ public class HelloWorld
 	public void printHello() {
 		System.out.println("Hello ! " + name);
 	}
+
+	public void getTime() {
+		System.out.println("the time");
+	}
 }
